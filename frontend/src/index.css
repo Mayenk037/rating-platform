@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App background + font */
+body {
+  @apply bg-slate-950 text-slate-50 font-sans;
+}
+
+/* Simple glass card utility */
+.glass-card {
+  @apply bg-slate-900/70 border border-slate-700/60 shadow-xl shadow-slate-950/60 rounded-2xl;
+}
