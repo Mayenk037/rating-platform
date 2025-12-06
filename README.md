@@ -6,7 +6,7 @@ A full-stack Rating & Review Platform where users can sign up, log in, rate item
 
 ## Live Demo
 
- **Frontend Live Link:** *Add your Vercel link here*
+ **Frontend Live Link:** (https://rating-platform-five.vercel.app/)
 
 ---
 
